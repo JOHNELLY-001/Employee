@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # employee-transfer-app
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Employee
+An employee transfer project
+>>>>>>> d7651be1402860b6416581918b21badd4e4348a4
