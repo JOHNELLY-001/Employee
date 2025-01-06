@@ -6,11 +6,6 @@
           <div class="logo">Employee Transfer Portal</div>
           <nav class="navbar">
             <ul>
-              <li><a href="#home">Home</a></li>
-              <li><a href="#how-it-works">How It Works</a></li>
-              <li><a href="#about">About Us</a></li>
-              <li><a href="#faq">FAQ</a></li>
-              <li><a href="#contact">Contact</a></li>
               <li><router-link to="/signup" class="btn-signup">Sign Up</router-link></li>
               <li><router-link to="/login" class="btn-login">Log in</router-link></li>
             </ul>
@@ -23,10 +18,7 @@
         <div class="hero-content">
           <h1>Simplify Your Job Transfer Process</h1>
           <p>Connect with employees who want to transfer their job location. Effortless. Fast. Secure.</p>
-          <div class="hero-buttons">
-            <a href="#signup" class="btn-primary">Sign Up</a>
-            <a href="#how-it-works" class="btn-secondary">Learn More</a>
-          </div>
+          
         </div>
       </section>
   
@@ -185,8 +177,8 @@
   }
   
   .hero-content h1 {
-    font-size: 48px;
-    margin-bottom: 20px;
+    font-size: 49px;
+    margin-bottom: 50px;
   }
   
   .hero-content p {
